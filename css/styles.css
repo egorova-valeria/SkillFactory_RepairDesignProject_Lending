@@ -104,7 +104,7 @@ p, figure {
 }
 
 .elements::before, .elements::after {
-    content: url(..//images/Rectangle\ 6.8.svg);
+    content: url(../images/Rectangle\ 6.8.svg);
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -155,12 +155,12 @@ form {
 }
 
 .left::after {
-    content: url(..//images/slider_arrow-left.svg);
+    content: url(../images/slider_arrow-left.svg);
     margin-left: 13px;
 } 
 
 .right::before {
-    content: url(..//images/slider_arrow-right.svg);
+    content: url(../images/slider_arrow-right.svg);
     margin-right: 13px;
 
 } 
@@ -388,11 +388,11 @@ form {
 }
 
 .projects__buttons::before {
-    content: url(..//images/arrow-left.svg);
+    content: url(../images/arrow-left.svg);
 }
 
 .projects__buttons::after {
-    content: url(..//images/arrow-right.svg);
+    content: url(../images/arrow-right.svg);
 }
 
 .projects__buttons .buttons-circle:first-child {
@@ -463,13 +463,13 @@ form {
 }
 
 .image__traingle {
-    content: url(..//images/control-play.svg);
+    content: url(../images/control-play.svg);
    
 }
 
 /* линия под картинкой */
 .control__underline {
-    content: url(..//images/Rectangle\ 6.8.svg);
+    content: url(../images/Rectangle\ 6.8.svg);
     margin: 62.5px auto 34.5px; /* центрируем элемент*/
 }
 
@@ -554,21 +554,21 @@ fieldset {
 
 /* фоновое изображение для колонки 1 */
 .column-1 {
-    background-image: url(..//images/types_of_repair_1.jpg);
+    background-image: url(../images/types_of_repair_1.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
 /* фоновое изображение для колонки 2 */
 .column-2 {
-    background-image: url(..//images/types_of_repair_2.jpg);
+    background-image: url(../images/types_of_repair_2.jpg);
     background-size: contain;
     background-repeat: no-repeat;    
 }
 
 /* фоновое изображение для колонки 3 */
 .column-3 {
-    background-image: url(..//images/types_of_repair_3.jpg);
+    background-image: url(../images/types_of_repair_3.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -634,7 +634,7 @@ fieldset {
 }
  
 .wrapper__specialists {
-    background-image: url(..//images/backgroud_repair__spesialists.png);
+    background-image: url(../images/backgroud_repair__spesialists.png);
     background-size: contain;
     margin-left: -115px;
 }
@@ -659,22 +659,22 @@ fieldset {
 }
 
 .benifit-1::before {
-    content: url(..//images/icon_01_repair.svg); /* добавляем картинки для нумерации списка */
+    content: url(../images/icon_01_repair.svg); /* добавляем картинки для нумерации списка */
     padding-right: 9px;
 }
 
 .benifit-2::before {
-    content: url(..//images/icon_02_repair.svg); /* добавляем картинки для нумерации списка */
+    content: url(../images/icon_02_repair.svg); /* добавляем картинки для нумерации списка */
     padding-right: 9px;
 }
 
 .benifit-3::before {
-    content: url(..//images/icon_03_repair.svg); /* добавляем картинки для нумерации списка */
+    content: url(../images/icon_03_repair.svg); /* добавляем картинки для нумерации списка */
     padding-right: 9px;
 }
 
 .benifit-4::before {
-    content: url(..//images/icon_04_repair.svg); /* добавляем картинки для нумерации списка */
+    content: url(../images/icon_04_repair.svg); /* добавляем картинки для нумерации списка */
     padding-right: 9px;
 }
 
@@ -742,14 +742,14 @@ fieldset {
 }
 
 .repair-block3__promo::before {
-    content: url(..//images/pig.svg);
+    content: url(../images/pig.svg);
     margin-top: 10px;
 }
 /** ----------------------------------- **/
 
 /** ----------- FANTASIES -----------  **/
 .fantasies {
-    background-image: url(..//images/fantasies.png);
+    background-image: url(../images/fantasies.png);
     background-size: cover;
     height: 864px;
     margin-bottom: 110px;
@@ -890,17 +890,17 @@ fieldset {
 }
 
 .feedback-1__element::before {
-    content: url(..//images/feedback-1.jpg);
+    content: url(../images/feedback-1.jpg);
     padding-right: 23px;
 }
 
 .feedback-2__element::before {
-    content: url(..//images/feedback-2.jpg);
+    content: url(../images/feedback-2.jpg);
     padding-right: 23px;
 }
 
 .feedback-3__element::before {
-    content: url(..//images/feedback-3.jpg);
+    content: url(../images/feedback-3.jpg);
     padding-right: 23px;
 }
 
@@ -997,7 +997,7 @@ div .clients__input {
 
 /** ----------- MAP -----------  **/
 .map {
-    background-image: url(..//images/maps.jpg);
+    background-image: url(../images/maps.jpg);
     margin-top: -225px;
     position: relative;
     z-index: 1;
